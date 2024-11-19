@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595486801848",
+    "project_id": "nepth-barber-shop",
+    "storage_bucket": "nepth-barber-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595486801848:android:5f629a70682e0cff9ed94d",
+        "android_client_info": {
+          "package_name": "com.nestler.msa_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2STJXPGW_Dykx5PkDdk0bmGn5wG_wAd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
